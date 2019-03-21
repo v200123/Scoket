@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Scoket:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Scoket_jar</output-path>
+    <root id="archive" name="Scoket.jar">
+      <element id="module-output" name="Scoket" />
+    </root>
+  </artifact>
+</component>
